@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Fuzzy Logic – Machine Learning – Deep learning – BIM-LSTM – Expert system – BI 
+
+ Python – SQL server – Net work ++ - Django –flight safety 
+
 - ⚡ Fun fact: ...
 - PhD. Student IT, Business Intelligence central Bench Tehran, Iran
 Thesis Title: Design of intelligent system to optimize flight safety processes
@@ -12,7 +15,7 @@ Supervisor: Prof, Abbas Toloie Eshlaghy    Advisor: Dr. Mohamad Ali Afshar Kazem
 Master, IT   Applied
 University Electronic Tehran Branch
 Thesis Title: study of strategies and indicators affecting information security in e-learning   Supervisor: Dr. Mohammad Ali Afshar Kazemi Advisor: Prof, Abbas Toloie Eshlagy
-Awarded best - The best lecturer of the University of  Applied Science and Technology, Unit 18, in e-teaching, designing an online store for students                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Awarded best - The best lecturer of the University of  Applied Science and Technology, Unit 18, in e-teaching, designing an online store for students                                                                                                                                                                                                                                                                              Having successfully completed the appropriate training and certification requirements is hereby recognized as  a MikroTik  certified MTCNA                                                                                                                                                                                                                                                                                      Awarded best(Grade1)  in Computer programming competitions  award at The Azad University                                                                                                                                                                                                                                                                                                 
 
 <!---
 dryahyavi/dryahyavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

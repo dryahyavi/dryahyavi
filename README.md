@@ -21,3 +21,12 @@ Awarded best - The best lecturer of the University of  Applied Science and Techn
 dryahyavi/dryahyavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-	Publications (Under Review) 
+
+o	designing an intelligent model to optimize to safety risk of the Landing flight using B.I.M-LSTM  
+o	designing an intelligent model to optimize to safety risk of the approach flight using B.I.M-LSTM 
+
+o	Mansour yahyavi . An efficient design for wireless sensor networks topology: Deployment of nodes and coverage holes repair of network using fuzzy logic.
+
+o	Mansour yahyavi, A traffic model for fog computation and shaping network in IOT                     applications using Fuzzy Control systems
+
